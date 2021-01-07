@@ -1,0 +1,11 @@
+C:\Users\97460\source\repos\MEFDemo\BOC\bin\Debug\BOC.dll
+C:\Users\97460\source\repos\MEFDemo\BOC\bin\Debug\BOC.pdb
+C:\Users\97460\source\repos\MEFDemo\BOC\bin\Debug\ChinaUnionPay.dll
+C:\Users\97460\source\repos\MEFDemo\BOC\bin\Debug\ChinaUnionPay.pdb
+C:\Users\97460\source\repos\MEFDemo\BOC\obj\Debug\BOC.csprojAssemblyReference.cache
+C:\Users\97460\source\repos\MEFDemo\BOC\obj\Debug\BOC.csproj.CoreCompileInputs.cache
+C:\Users\97460\source\repos\MEFDemo\BOC\obj\Debug\BOC.csproj.CopyComplete
+C:\Users\97460\source\repos\MEFDemo\BOC\obj\Debug\BOC.dll
+C:\Users\97460\source\repos\MEFDemo\BOC\obj\Debug\BOC.pdb
+C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\BOC.dll
+C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\BOC.pdb

@@ -1,0 +1,13 @@
+C:\Users\97460\source\repos\MEFDemo\BankOperation\bin\Debug\BankOperation.exe.config
+C:\Users\97460\source\repos\MEFDemo\BankOperation\bin\Debug\BankOperation.exe
+C:\Users\97460\source\repos\MEFDemo\BankOperation\bin\Debug\BankOperation.pdb
+C:\Users\97460\source\repos\MEFDemo\BankOperation\bin\Debug\ChinaUnionPay.dll
+C:\Users\97460\source\repos\MEFDemo\BankOperation\bin\Debug\ChinaUnionPay.pdb
+C:\Users\97460\source\repos\MEFDemo\BankOperation\obj\Debug\BankOperation.csprojAssemblyReference.cache
+C:\Users\97460\source\repos\MEFDemo\BankOperation\obj\Debug\BankOperation.csproj.CoreCompileInputs.cache
+C:\Users\97460\source\repos\MEFDemo\BankOperation\obj\Debug\BankOperation.csproj.CopyComplete
+C:\Users\97460\source\repos\MEFDemo\BankOperation\obj\Debug\BankOperation.exe
+C:\Users\97460\source\repos\MEFDemo\BankOperation\obj\Debug\BankOperation.pdb
+C:\Users\97460\source\repos\MEFDemo\bin\Debug\BankOperation.exe.config
+C:\Users\97460\source\repos\MEFDemo\bin\Debug\BankOperation.exe
+C:\Users\97460\source\repos\MEFDemo\bin\Debug\BankOperation.pdb

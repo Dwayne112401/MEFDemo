@@ -1,0 +1,7 @@
+C:\Users\97460\source\repos\MEFDemo\MEF1\bin\Debug\MEF1.exe.config
+C:\Users\97460\source\repos\MEFDemo\MEF1\bin\Debug\MEF1.exe
+C:\Users\97460\source\repos\MEFDemo\MEF1\bin\Debug\MEF1.pdb
+C:\Users\97460\source\repos\MEFDemo\MEF1\obj\Debug\MEF1.csproj.CoreCompileInputs.cache
+C:\Users\97460\source\repos\MEFDemo\MEF1\obj\Debug\MEF1.exe
+C:\Users\97460\source\repos\MEFDemo\MEF1\obj\Debug\MEF1.pdb
+C:\Users\97460\source\repos\MEFDemo\MEF1\obj\Debug\MEF1.csprojAssemblyReference.cache

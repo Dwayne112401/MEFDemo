@@ -1,0 +1,11 @@
+C:\Users\97460\source\repos\MEFDemo\CCB\bin\Debug\CCB.dll
+C:\Users\97460\source\repos\MEFDemo\CCB\bin\Debug\CCB.pdb
+C:\Users\97460\source\repos\MEFDemo\CCB\bin\Debug\ChinaUnionPay.dll
+C:\Users\97460\source\repos\MEFDemo\CCB\bin\Debug\ChinaUnionPay.pdb
+C:\Users\97460\source\repos\MEFDemo\CCB\obj\Debug\CCB.csprojAssemblyReference.cache
+C:\Users\97460\source\repos\MEFDemo\CCB\obj\Debug\CCB.csproj.CoreCompileInputs.cache
+C:\Users\97460\source\repos\MEFDemo\CCB\obj\Debug\CCB.csproj.CopyComplete
+C:\Users\97460\source\repos\MEFDemo\CCB\obj\Debug\CCB.dll
+C:\Users\97460\source\repos\MEFDemo\CCB\obj\Debug\CCB.pdb
+C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\CCB.dll
+C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\CCB.pdb
