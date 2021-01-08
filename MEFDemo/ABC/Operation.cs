@@ -16,12 +16,12 @@ namespace ABC
     {
         public void SaveMoneny(int amount)
         {
-            Console.WriteLine($"把钱存入建设银行，金额为：{amount}");
+            Console.WriteLine($"把钱存入农业银行，金额为：{amount}");
         }
 
         public void WithdrawMoney(int amount)
         {
-            Console.WriteLine($"从建设银行取钱，金额为：{amount}");
+            Console.WriteLine($"从农行银行取钱，金额为：{amount}");
         }
     }
 }

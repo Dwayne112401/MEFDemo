@@ -16,12 +16,12 @@ namespace BOC
     {
         public void SaveMoneny(int amount)
         {
-            Console.WriteLine($"把钱存入建设银行，金额为：{amount}");
+            Console.WriteLine($"把钱存入中国银行，金额为：{amount}");
         }
 
         public void WithdrawMoney(int amount)
         {
-            Console.WriteLine($"从建设银行取钱，金额为：{amount}");
+            Console.WriteLine($"从中国银行取钱，金额为：{amount}");
         }
     }
 }
