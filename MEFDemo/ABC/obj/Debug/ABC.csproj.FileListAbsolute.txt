@@ -9,3 +9,10 @@ C:\Users\97460\source\repos\MEFDemo\ABC\obj\Debug\ABC.dll
 C:\Users\97460\source\repos\MEFDemo\ABC\obj\Debug\ABC.pdb
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\ABC.dll
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\ABC.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\bank\ABC.dll
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\bank\ABC.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ABC\obj\Debug\ABC.csprojAssemblyReference.cache
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ABC\obj\Debug\ABC.csproj.CopyComplete
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ABC\obj\Debug\ABC.dll
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ABC\obj\Debug\ABC.pdb

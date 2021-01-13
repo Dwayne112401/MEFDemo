@@ -1,12 +1,7 @@
-﻿using ChinaUnionPay;
+﻿using Autofac;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.Composition.Hosting;
-using System.IO;
-using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BankOperation
 {
@@ -14,30 +9,77 @@ namespace BankOperation
     {
         static void Main(string[] args)
         {
-            while (true)
+            Operation();
+
+            Console.ReadKey();
+        }
+
+        static void Operation()
+        {
+            // 创建 ContainerBuilder
+            ContainerBuilder builder = new ContainerBuilder();
+
+            //实现类所在的程序集名称
+            Assembly assembly = Assembly.Load("BankOperation");
+
+            // 获取程序集所在的全部实现类
+            builder.RegisterAssemblyTypes(assembly).AsImplementedInterfaces();
+
+            // t.Name.StartsWith:通过类名添加筛选条件,从类名的起始位开始匹配
+            builder.RegisterAssemblyTypes(assembly).Where(t => t.Name.StartsWith("B")).AsImplementedInterfaces();
+
+            // 实例化
+            IContainer container = builder.Build();
+            IEnumerable<IUnionPay> banks = container.Resolve<IEnumerable<IUnionPay>>();
+
+            foreach (var item in banks)
             {
-                Console.Write($"请输入银行名称：");
-                string name = Console.ReadLine();
-                BlankOperation(name, 300, 100);
-                Console.WriteLine("----------------------------------");
+               item.SaveMoneny(100);
+               item.WithdrawMoney(20);
+                Console.WriteLine("-----------------------------------------------");
             }
         }
 
-        static void BlankOperation(string bankName, int saveMonenyAmout, int withdrawMoneyAmount)
+    }
+
+    public interface IUnionPay
+    {
+        /// <summary>
+        /// 存钱
+        /// </summary>
+        /// <param name="amount">存钱金额</param>
+        void SaveMoneny(int amount);
+
+        /// <summary>
+        /// 取钱
+        /// </summary>
+        /// <param name="amount">取钱金额</param>
+        void WithdrawMoney(int amount);
+    }
+
+    public class ABank:IUnionPay
+    {
+        public void SaveMoneny(int amount)
         {
-            AggregateCatalog catelog = new AggregateCatalog();
+            Console.WriteLine($"把钱存入A银行，金额为：{amount}");
+        }
 
-            // 添加部件所在文件目录
-            string path = $"{Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().CodeBase).LocalPath)}\\bank\\";
-            catelog.Catalogs.Add(new DirectoryCatalog(path));
+        public void WithdrawMoney(int amount)
+        {
+            Console.WriteLine($"从A银行取钱，金额为：{amount}");
+        }
+    }
 
-            // 声明容器
-            CompositionContainer container = new CompositionContainer(catelog);
-            var dev = container.GetExportedValue<IUnionPay>(bankName);
+    public class BBank : IUnionPay
+    {
+        public void SaveMoneny(int amount)
+        {
+            Console.WriteLine($"把钱存入B银行，金额为：{amount}");
+        }
 
-            // 动作调用
-            dev.SaveMoneny(saveMonenyAmout);
-            dev.WithdrawMoney(withdrawMoneyAmount);
+        public void WithdrawMoney(int amount)
+        {
+            Console.WriteLine($"从B银行取钱，金额为：{amount}");
         }
     }
 }

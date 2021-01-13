@@ -11,3 +11,10 @@ C:\Users\97460\source\repos\MEFDemo\BankOperation\obj\Debug\BankOperation.pdb
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\BankOperation.exe.config
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\BankOperation.exe
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\BankOperation.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\BankOperation.exe.config
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\BankOperation.exe
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\BankOperation.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\BankOperation\obj\Debug\BankOperation.csproj.CoreCompileInputs.cache
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\BankOperation\obj\Debug\BankOperation.csproj.CopyComplete
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\BankOperation\obj\Debug\BankOperation.exe
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\BankOperation\obj\Debug\BankOperation.pdb

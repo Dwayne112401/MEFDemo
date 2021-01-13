@@ -9,3 +9,10 @@ C:\Users\97460\source\repos\MEFDemo\CMB\obj\Debug\CMB.dll
 C:\Users\97460\source\repos\MEFDemo\CMB\obj\Debug\CMB.pdb
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\CMB.dll
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\bank\CMB.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\bank\CMB.dll
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\bank\CMB.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\CMB\obj\Debug\CMB.csprojAssemblyReference.cache
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\CMB\obj\Debug\CMB.csproj.CoreCompileInputs.cache
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\CMB\obj\Debug\CMB.csproj.CopyComplete
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\CMB\obj\Debug\CMB.dll
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\CMB\obj\Debug\CMB.pdb

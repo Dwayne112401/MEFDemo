@@ -5,3 +5,8 @@ C:\Users\97460\source\repos\MEFDemo\ChinaUnionPay\obj\Debug\ChinaUnionPay.dll
 C:\Users\97460\source\repos\MEFDemo\ChinaUnionPay\obj\Debug\ChinaUnionPay.pdb
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\ChinaUnionPay.dll
 C:\Users\97460\source\repos\MEFDemo\bin\Debug\ChinaUnionPay.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\ChinaUnionPay.dll
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\bin\Debug\ChinaUnionPay.pdb
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ChinaUnionPay\obj\Debug\ChinaUnionPay.csproj.CoreCompileInputs.cache
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ChinaUnionPay\obj\Debug\ChinaUnionPay.dll
+D:\@dwayne\@MyProcess\MEF测试用例\MEFDemo\ChinaUnionPay\obj\Debug\ChinaUnionPay.pdb
